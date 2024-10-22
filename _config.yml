@@ -31,10 +31,20 @@ author:
   email: "christian.a.westbrook@proton.me"
 
 # Build settings
-theme: minima
+remote_theme: jekyll/minima
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
+
+#header_pages:
+# - about.md
+
+minima:
+  skin: classic
+
+social_links:
+  - { platform: github,  user_url: "https://github.com/christian-westbrook/descent-blog/" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
