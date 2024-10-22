@@ -7,7 +7,7 @@ layout: home
 
 Welcome, mortals, to the DESCENT!
 
-![Descent v0.1.0-prototype intro screen]({% link {{ site.baseurl }}/images/v0.1.0-prototype/intro.png %})
+![Descent v0.1.0-prototype intro screen](images/v0.1.0-prototype/intro.png)
 
 DESCENT is an experimental decentralized multi-user dungeon. The game currently features:
 - A text adventure with two rooms
