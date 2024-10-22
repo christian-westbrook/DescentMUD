@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Descent
+title: DESCENT Development Log
 email: christian.a.westbrook@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   An experimental decentralized multi-user dungeon
-baseurl: "/descent-blog" # the subpath of your site, e.g. /blog
+baseurl: "/descent-devlog" # the subpath of your site, e.g. /blog
 url: "https://christian-westbrook.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: christian-westbrook
 
@@ -44,7 +44,7 @@ minima:
   skin: classic
 
 social_links:
-  - { platform: github,  user_url: "https://github.com/christian-westbrook/descent-blog/" }
+  - { platform: github,  user_url: "https://github.com/christian-westbrook/descent-devlog/" }
 
 # Exclude from processing.
 # The following items will not be processed, by default.
