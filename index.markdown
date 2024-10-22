@@ -5,5 +5,5 @@
 layout: home
 ---
 
-## Releases
-<a href="https://github.com/christian-westbrook/descent-releases/releases/download/v0.1.0-prototype/descent-v0.1.0-prototype.zip">v0.1.0-prototype</a>
+# Releases
+<a href="https://github.com/christian-westbrook/descent-releases/releases/download/v0.1.0-prototype/descent-v0.1.0-prototype.zip">descent-v0.1.0-prototype</a>
