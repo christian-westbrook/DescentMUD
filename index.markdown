@@ -20,6 +20,7 @@ Releases are currently targeting Windows 11 and are being hosted unsigned [on Gi
 **Releases**  
 <a href="https://github.com/christian-westbrook/descent-releases/releases/download/descent-v0.2.1-prototype/descent-v0.2.1-prototype.zip">descent-v0.2.1-prototype</a>  
 *What's New*  
+<a href="https://www.youtube.com/watch?v=SdqkvRBbMts">devlog</a> 
 - Added message delay to make reading new text easier
 
 <a href="https://github.com/christian-westbrook/descent-releases/releases/download/descent-v0.2.0-prototype/descent-v0.2.0-prototype.zip">descent-v0.2.0-prototype</a>  
