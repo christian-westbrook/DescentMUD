@@ -14,8 +14,10 @@ DESCENT is an experimental decentralized multi-user dungeon. The game currently 
 
 On this site you'll find development logs and prototype releases you can download and play.  
 
-**Releases**  
+**System Requirements**  
 Releases are currently targeting Windows 11 and are being hosted unsigned [on GitHub](https://github.com/christian-westbrook/descent-releases/releases).
+
+**Releases**
 
 <a href="https://github.com/christian-westbrook/descent-releases/releases/download/descent-v0.2.0-prototype/descent-v0.2.0-prototype.zip">descent-v0.2.0-prototype</a>
 
