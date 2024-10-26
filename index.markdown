@@ -17,6 +17,12 @@ On this site you'll find development logs and prototype releases you can downloa
 **Releases**  
 Releases are currently targeting Windows 11 and are being hosted unsigned [on GitHub](https://github.com/christian-westbrook/descent-releases/releases).
 
+<a href="https://github.com/christian-westbrook/descent-releases/releases/download/descent-v0.2.0-prototype/descent-v0.2.0-prototype.zip">descent-v0.2.0-prototype</a>
+
+*What's New*
+- Extensible rooms
+- More rooms to explore
+
 <a href="https://github.com/christian-westbrook/descent-releases/releases/download/descent-v0.1.1-prototype/descent-v0.1.1-prototype.zip">descent-v0.1.1-prototype</a>
 
 *What's New*
