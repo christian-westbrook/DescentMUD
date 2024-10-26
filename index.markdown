@@ -17,17 +17,17 @@ On this site you'll find development logs and prototype releases you can downloa
 **System Requirements**  
 Releases are currently targeting Windows 11 and are being hosted unsigned [on GitHub](https://github.com/christian-westbrook/descent-releases/releases).
 
-**Releases**
-<a href="https://github.com/christian-westbrook/descent-releases/releases/download/descent-v0.2.0-prototype/descent-v0.2.0-prototype.zip">descent-v0.2.0-prototype</a>
+**Releases**  
+<a href="https://github.com/christian-westbrook/descent-releases/releases/download/descent-v0.2.0-prototype/descent-v0.2.0-prototype.zip">descent-v0.2.0-prototype</a>  
 *What's New*
 - Extensible rooms
 - More rooms to explore
 
-<a href="https://github.com/christian-westbrook/descent-releases/releases/download/descent-v0.1.1-prototype/descent-v0.1.1-prototype.zip">descent-v0.1.1-prototype</a>
+<a href="https://github.com/christian-westbrook/descent-releases/releases/download/descent-v0.1.1-prototype/descent-v0.1.1-prototype.zip">descent-v0.1.1-prototype</a>  
 *What's New*
 - The outro is no longer skipped
 
-<a href="https://github.com/christian-westbrook/descent-releases/releases/download/descent-v0.1.0-prototype/descent-v0.1.0-prototype.zip">descent-v0.1.0-prototype</a>
+<a href="https://github.com/christian-westbrook/descent-releases/releases/download/descent-v0.1.0-prototype/descent-v0.1.0-prototype.zip">descent-v0.1.0-prototype</a>  
 *What's New*
 - A text adventure with two rooms
 - Navigation through the command line
