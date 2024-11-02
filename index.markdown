@@ -10,7 +10,9 @@ Welcome, mortals, to the DESCENT!
 ![Descent v0.1.0-prototype intro screen](images/v0.1.0-prototype/intro.png)
 
 DESCENT is an experimental decentralized multi-user dungeon. The game currently features:
+- Peer-to-peer multiplayer
 - Command-line navigation through a game world with four rooms
+- Come find me in the den!
 
 On this site you'll find development logs and prototype releases you can download and play.  
 
@@ -18,6 +20,11 @@ On this site you'll find development logs and prototype releases you can downloa
 Releases are currently targeting Windows 11 and are being hosted unsigned [on GitHub](https://github.com/christian-westbrook/descent-releases/releases).
 
 **Releases**  
+<a href="https://github.com/christian-westbrook/descent-releases/releases/download/descent-v0.3.0-prototype/descent-v0.3.0-prototype.zip">descent-v0.3.0-prototype</a>   
+*What's New*  
+<a href="https://www.youtube.com/watch?v=wFXYheLZ8mM">devlog</a> 
+- Added peer-to-peer multiplayer
+
 <a href="https://github.com/christian-westbrook/descent-releases/releases/download/descent-v0.2.1-prototype/descent-v0.2.1-prototype.zip">descent-v0.2.1-prototype</a>  
 *What's New*  
 <a href="https://www.youtube.com/watch?v=SdqkvRBbMts">devlog</a> 
